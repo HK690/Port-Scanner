@@ -37,8 +37,6 @@ Advanced-Port-Scanner/
 ├── utils.py
 ├── requirements.txt
 ├── README.md
-│
-├── reports/
 ```
 
 ---
