@@ -62,9 +62,9 @@ Advanced-Port-Scanner/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Advanced-Port-Scanner.git
+git clone https://github.com/HK690/Port-Scanner.git
 
-cd Advanced-Port-Scanner
+cd Port-Scanner
 ```
 
 ### Create Virtual Environment
