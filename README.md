@@ -172,6 +172,7 @@ reports/
 
 3.
 <img width="680" height="436" alt="image" src="https://github.com/user-attachments/assets/39e1723c-5601-4f77-b32e-fd100c09f817" />
+
 ---
 
 ## 🔍 Supported Features
