@@ -166,8 +166,10 @@ reports/
 ```
 1.
 <img width="910" height="241" alt="image" src="https://github.com/user-attachments/assets/21d32981-da1c-4a73-b0df-6cf2dd7935b0" />
+
 2.
 <img width="869" height="442" alt="image" src="https://github.com/user-attachments/assets/643561cd-af8b-4854-bc9e-c801f2843a4d" />
+
 3.
 <img width="680" height="436" alt="image" src="https://github.com/user-attachments/assets/39e1723c-5601-4f77-b32e-fd100c09f817" />
 ---
