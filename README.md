@@ -39,8 +39,6 @@ Advanced-Port-Scanner/
 ├── README.md
 │
 ├── reports/
-│
-└── screenshots/
 ```
 
 ---
